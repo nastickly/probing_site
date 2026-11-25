@@ -1,0 +1,15 @@
+# Системные файлы macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Папки и настройки популярных редакторов
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Логи и переменные окружения (на будущее)
+*.log
+.env
